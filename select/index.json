@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ツキアカリのミチシルベ",
+  "base_artist": "ステレオポニー",
+  "createdAt": "2026-03-14T08:39:44.581533Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ツキアカリのミチシルベ",
+      "artist": "ステレオポニー",
+      "has_synced": true,
+      "path": "select/01_ツキアカリのミチシルベ_ステレオポニー.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ツキアカリのミチシルベ",
+      "artist": "Stereopony",
+      "has_synced": true,
+      "path": "select/02_ツキアカリのミチシルベ_Stereopony.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ツキアカリのミチシルベ",
+      "artist": "ステレオポニー",
+      "has_synced": true,
+      "path": "select/03_ツキアカリのミチシルベ_ステレオポニー.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ツキアカリのミチシルベ [instrumental]",
+      "artist": "ステレオポニー",
+      "has_synced": true,
+      "path": "select/04_ツキアカリのミチシルベ_[instrumental]_ステレオポニー.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ツキアカリのミチシルベ 〜Instrumental〜",
+      "artist": "ステレオポニー",
+      "has_synced": true,
+      "path": "select/05_ツキアカリのミチシルベ_〜Instrumental〜_ステレオポニー.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ツキアカリのミチシルベ",
+      "artist": "Stereopony",
+      "has_synced": true,
+      "path": "select/06_ツキアカリのミチシルベ_Stereopony.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ツキアカリのミチシルベ - Tsukiakari No Michishirube",
+      "artist": "Stereopony",
+      "has_synced": true,
+      "path": "select/07_ツキアカリのミチシルベ_-_Tsukiakari_No_Michishirube_Stereopony.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ツキアカリのミチシルベ (Instrumental)",
+      "artist": "Stereopony",
+      "has_synced": true,
+      "path": "select/08_ツキアカリのミチシルベ_(Instrumental)_Stereopony.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ツキアカリのミチシルベ (Acoustic Version) (Instrumental)",
+      "artist": "Stereopony",
+      "has_synced": true,
+      "path": "select/09_ツキアカリのミチシルベ_(Acoustic_Version)_(Instrumental)_Stereopony.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ツキアカリのミチシルベ",
+      "artist": "EVANPONY",
+      "has_synced": true,
+      "path": "select/10_ツキアカリのミチシルベ_EVANPONY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ツキアカリのミチシルベ (月光的指引)",
+      "artist": "stereopony (ステレオポニー)",
+      "has_synced": true,
+      "path": "select/11_ツキアカリのミチシルベ_(月光的指引)_stereopony_(ステレオポニー).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ツキアカリのミチシルベ -Acoustic Ver-",
+      "artist": "Stereopony",
+      "has_synced": true,
+      "path": "select/12_ツキアカリのミチシルベ_-Acoustic_Ver-_Stereopony.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ツキアカリのミチシルベ",
+      "artist": "ステレオポニー",
+      "has_synced": false,
+      "path": "select/pl_01_ツキアカリのミチシルベ_ステレオポニー.txt"
+    }
+  ]
+}
